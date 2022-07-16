@@ -4,7 +4,7 @@ In this Project I will learn how to train and export TensorFlow models for text 
 
 
 
-F### ollowing tasks in the project:
+### Following tasks in the project:
 ```
 
 Task 1: Load and Preprocess the Amazon Fine Foods Review Data
