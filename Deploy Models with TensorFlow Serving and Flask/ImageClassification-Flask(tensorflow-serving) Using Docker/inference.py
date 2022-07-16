@@ -23,6 +23,7 @@ def get_predictions(image_path):
 
     })
 
+    # By default it has utf-8 encoding which we required here in data.encode()
     response=requests.post(MODEL_URI,data=data.encode())
     result=json.loads(response.text)
     # print(result)
