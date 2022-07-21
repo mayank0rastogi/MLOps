@@ -1,1 +1,1 @@
-
+By the end of this project, you will learn how to build a spam detector using machine learning & launch it as a serverless API using AWS Elastic Beanstalk technology. You will be using the Flask python framework to create the API, basic machine learning methods to build the spam detector & AWS desktop management console to deploy the spam detector into the AWS cloud servers. Additionally, you will learn more about how to switch between different versions of your web application & also, monitoring your AWS servers using Elastic Beanstalk Desktop Management Console.
